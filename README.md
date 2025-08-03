@@ -16,7 +16,7 @@
 Proyecto de pruebas funcionales para UrbanRoutes, una aplicación de transporte urbano. El objetivo fue verificar el correcto funcionamiento de las ventanas emergentes, campos de entrada y lógica de reserva de viajes.
 
 ## Herramientas usadas
-- Documentación de pruebas (Google Docs, Markdown)
+- Documentación de pruebas (Google Sheets, Jira)
 - Gestión de errores: Manual
 - Sistema de pruebas: Exploratorias y estructuradas
 
