@@ -1,14 +1,13 @@
 # Urbanroutes -  pruebas funcionales QA
 ## estructura
-├── tests/
-│   ├── reserva_logica_test.md
-│   ├── metodo_pago_test.md
-│   └── mapa_visual_test.md
-│
-├── bug_reports/
-│   ├── error_tarjeta_no_valida.md
-│   ├── error_boton_cancelar.md
-│   └── error_direccion_borrada.md
+| - tests/
+│ - reserva_logica_test.md
+│ - metodo_pago_test.md
+│ - mapa_visual_test.md
+|  - bug_reports/
+│ - error_tarjeta_no_valida.md
+│ - error_boton_cancelar.md
+│  - error_direccion_borrada.md
 │
 └── README.md
 
